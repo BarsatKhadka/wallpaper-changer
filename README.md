@@ -35,9 +35,10 @@ It works with Linux Mint (Cinnamon and XFCE).
 
 Run the script with the following command:
 ```
-python3 wallpaper_changer.py --folder /path/to/your/wallpapers --time 30
+python3 /home/user_name/wallpaper-changer/wallpaper_changer.py --folder /path/to/your/wallpapers --time 30
 ```
 
+Replace ```/user_name/``` with your actual username.
 Replace ```/path/to/your/wallpapers``` with the folder you have your wallpapers in.
 
 Replace ```30``` with the number of minutes you want the wallpaper to change.
