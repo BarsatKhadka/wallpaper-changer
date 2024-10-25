@@ -80,3 +80,8 @@ Replace the paths with your actual script location and desired folder and interv
 5 ) Test
 
 * Restart your system to ensure that the wallpaper changer script runs automatically on login.
+
+## License
+
+This project is licensed under MIT License
+
